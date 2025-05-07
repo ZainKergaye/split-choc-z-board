@@ -6,10 +6,12 @@ What is this project? This is my personal attempt at a low-profile split-key key
 
 - [ ] Wired
 - - [ ] USB-C connectors with trs communication between halves
-- - [ ] TRS cable to connect between halves
+- - [ ] TTRS cable to connect between halves
+- - [ ] Arduino nano
 - [ ] White addressable LED's
 - - [ ] VIA for configuration
-- [ ] Tactile choc switches
+- [ ] Linear choc switches
+- - [ ] V2 style switches
 - [ ] 3D printed case
 - [ ] KISS
 
