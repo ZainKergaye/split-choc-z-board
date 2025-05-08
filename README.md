@@ -15,6 +15,11 @@ What is this project? This is my personal attempt at a low-profile split-key key
 - [ ] 3D printed case
 - [ ] KISS
 
+
+## When changing design 
+
+Verify scotto's choc footprint library is imported
+
 ## Tools
 
 https://keyboard-design.com/
