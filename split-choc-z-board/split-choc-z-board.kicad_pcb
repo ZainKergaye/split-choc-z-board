@@ -127,7 +127,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0ce74192-f1b6-45b2-9a17-ffba3ac2771a")
-		(at 146.88 83.8)
+		(at 182.88 117.8)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D17"
@@ -500,7 +500,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0db9a409-5781-4cb6-a905-a82986673361")
-		(at 146.88 66.05)
+		(at 182.88 100.05)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D12"
@@ -873,7 +873,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "0f844cd1-00ff-4c21-bdc3-9af8ef716fe6")
-		(at 146.88 69.6)
+		(at 182.88 103.6)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D13"
@@ -1246,7 +1246,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "1136866c-1485-4618-88be-9261a9c3065c")
-		(at 146.88 41.2)
+		(at 182.88 75.2)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D5"
@@ -1619,7 +1619,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "2241ade1-961d-4025-9292-bff3fc06b7aa")
-		(at 87.5 30.5)
+		(at 108 51)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW6"
@@ -1936,7 +1936,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "32f84347-4b90-4dd8-ab7d-f9dbed7260c0")
-		(at 72.5 71.5)
+		(at 90 85)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW13"
@@ -2253,7 +2253,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "39d94152-c849-44bc-89ba-5aeaaf847bb8")
-		(at 92 93.5)
+		(at 108 102)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW16"
@@ -2570,7 +2570,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "3dc0e26a-d9fe-4fd5-a2d5-55fa9f06a152")
-		(at 146.88 34.1)
+		(at 182.88 68.1)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D3"
@@ -2943,7 +2943,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "417843b2-75b3-40f9-b9d0-4000b4b11d75")
-		(at 33.5 48)
+		(at 54 68)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW3"
@@ -3260,7 +3260,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "441a60de-65a7-42f6-b727-5551fe111afa")
-		(at 146.88 58.95)
+		(at 182.88 92.95)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D10"
@@ -3633,7 +3633,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "444cd3e8-6e50-4ea9-9d39-f4526cb023e3")
-		(at 51.5 30.5)
+		(at 72 51)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW2"
@@ -3950,7 +3950,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "4d37f0fd-65d4-48ed-be3a-cf16b710a8df")
-		(at 146.88 111.4)
+		(at 182.88 145.4)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R6"
@@ -4213,7 +4213,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "53fd890d-6e7a-405f-bbe7-f70853f35115")
-		(at 72.5 51)
+		(at 90 68)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW7"
@@ -4530,7 +4530,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "59093539-8da2-4dec-a77e-082134fb87a2")
-		(at 33.39 30.6)
+		(at 54 51)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW1"
@@ -4847,7 +4847,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5a17b813-5cf3-421d-ac20-0a59ff3f89fa")
-		(at 146.88 37.65)
+		(at 182.88 71.65)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D4"
@@ -5220,7 +5220,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "60738596-f961-4b81-a808-5c5c1c7a1425")
-		(at 146.88 51.85)
+		(at 182.88 85.85)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D8"
@@ -5593,7 +5593,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "622ea734-6218-45bb-a4ad-085dee1a0382")
-		(at 91 51.5)
+		(at 108 68)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW8"
@@ -5910,13 +5910,13 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6f94fa18-5d81-417a-ba8e-613767fd8950")
-		(at 146.88 27)
+		(at 182.88 61)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D1"
 			(at 3.81 -2.12 0)
 			(layer "F.SilkS")
-			(uuid "562fe0bd-d754-498d-9233-35404cd04817")
+			(uuid "b1042fa6-1644-42b5-b8de-b8ceb7cab1c1")
 			(effects
 				(font
 					(size 1 1)
@@ -5927,7 +5927,7 @@
 		(property "Value" "D"
 			(at 3.81 2.12 0)
 			(layer "F.Fab")
-			(uuid "271fb701-a2eb-4f55-b4bc-8afd88f79b0b")
+			(uuid "67d8bf94-5752-4ac7-915e-2472fb21ff9e")
 			(effects
 				(font
 					(size 1 1)
@@ -5940,7 +5940,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "42be5f4c-b398-4b71-acd3-10f2c4694102")
+			(uuid "7cdf727d-3e26-4439-8479-6d60152fb67f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5953,7 +5953,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "796547ac-d58b-4e13-a516-8ca13b2ae176")
+			(uuid "615ce6ee-75ba-45fa-83f0-f52d4b87c534")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6283,7 +6283,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "76a2fed0-581b-46db-a0d9-949bacdd3f0c")
-		(at 146.88 91.15)
+		(at 182.88 125.15)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R1"
@@ -6546,7 +6546,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "784455dc-4a7e-4448-acc6-72107fa959c9")
-		(at 146.88 30.55)
+		(at 182.88 64.55)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D2"
@@ -6919,7 +6919,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "829cf21f-cc32-490c-8c81-9f16893f1215")
-		(at 146.88 87.35)
+		(at 182.88 121.35)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D18"
@@ -7292,7 +7292,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "8369c01b-bc08-4a81-8136-377161eed528")
-		(at 146.88 55.4)
+		(at 182.88 89.4)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D9"
@@ -7665,13 +7665,13 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "8700c318-f197-4c65-bd7a-e82a5ae77d1d")
-		(at 72 117.5)
+		(at 90 136)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW10"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "bd830580-47f2-4cf4-8ffd-9c7e48f42556")
+			(uuid "f119f0db-d1db-4c5c-a027-9dd6f7f69242")
 			(effects
 				(font
 					(size 1 1)
@@ -7682,7 +7682,7 @@
 		(property "Value" "SW_SPST"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "df2c84c2-4b98-437c-920f-808180bfc3b2")
+			(uuid "077c3f1d-1c43-4f08-b95e-28675fbf33b4")
 			(effects
 				(font
 					(size 1 1)
@@ -7694,7 +7694,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fbbee1f0-0a97-4df9-9852-f652afff8743")
+			(uuid "2ee67063-4cbe-4e77-a660-48aab924380d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7706,7 +7706,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f4e8d222-4185-409f-95a1-c414caa268ea")
+			(uuid "df273c6e-f1eb-4685-bc30-8e567b8deb9b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7982,7 +7982,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "8ea589db-8997-4254-a810-3ab30264a7e6")
-		(at 92.5 73)
+		(at 108 85)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW15"
@@ -8299,7 +8299,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "92878e07-a1de-4fe3-96bc-d4461d54e1fe")
-		(at 53 70.5)
+		(at 72 85)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW11"
@@ -8616,7 +8616,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "93ebf6d3-c824-413b-83ea-7dafec5b5e7b")
-		(at 146.88 103.3)
+		(at 182.88 137.3)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R4"
@@ -8879,7 +8879,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a373c0d2-871b-4ce0-bd9a-285aea440848")
-		(at 146.88 107.35)
+		(at 182.88 141.35)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R5"
@@ -9142,7 +9142,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "a49dbd34-0e35-49d2-bc76-813b1828f399")
-		(at 69.5 30.5)
+		(at 90 51)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW5"
@@ -9459,7 +9459,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "a5469d0f-3910-4339-ad54-c1a66be0aba7")
-		(at 52.5 91.5)
+		(at 72 102)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW12"
@@ -9776,7 +9776,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "afe77cd0-84f4-40f7-97e5-6a47b3d27fb9")
-		(at 146.88 95.2)
+		(at 182.88 129.2)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R2"
@@ -10039,7 +10039,7 @@
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "b7447722-9add-438c-ad38-5f2543ea61d4")
-		(at 146.88 99.25)
+		(at 182.88 133.25)
 		(descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
 		(tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 10.16mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
 		(property "Reference" "R3"
@@ -10302,7 +10302,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "bb09dd41-f29f-45a1-b569-7af80af4f37c")
-		(at 72.5 92)
+		(at 90 102)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW14"
@@ -10619,7 +10619,7 @@
 	(footprint "Module:Arduino_Nano"
 		(layer "F.Cu")
 		(uuid "bbebb0af-4f73-4281-abd0-c7dc110da459")
-		(at 177.89 58.95)
+		(at 135.06 84.8 180)
 		(descr "Arduino Nano, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf")
 		(tags "Arduino Nano")
 		(property "Reference" "A1"
@@ -10645,7 +10645,7 @@
 			)
 		)
 		(property "Datasheet" "https://content.arduino.cc/assets/NANOEveryV3.0_sch.pdf"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10658,7 +10658,7 @@
 			)
 		)
 		(property "Description" "Arduino Nano Every"
-			(at 0 0 0)
+			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
@@ -10676,54 +10676,124 @@
 		(sheetfile "split-choc-z-board.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -1.4 -3.94)
-			(end -1.4 -1.27)
+			(start 16.64 39.5)
+			(end 16.64 -3.94)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2f073d26-8913-40a0-b5cc-8efc0575d414")
+			(uuid "e85a1a12-1ecb-4c7d-a10e-2713b7bfb1fd")
 		)
 		(fp_line
-			(start -1.4 1.27)
-			(end -1.4 39.5)
+			(start 16.64 39.5)
+			(end 11.56 39.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ab6d9c93-deb5-4386-a50f-60d2d53c491b")
+			(uuid "094fc3ef-5775-4566-a59b-929bd1f03f6e")
 		)
 		(fp_line
-			(start -1.4 39.5)
-			(end 3.68 39.5)
+			(start 16.64 -3.94)
+			(end -1.4 -3.94)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b6662c3c-290d-4db5-a35f-845d85947b74")
+			(uuid "a09b9482-9bd4-4591-9e50-9f764a6961b7")
 		)
 		(fp_line
-			(start 1.27 -1.27)
-			(end -1.4 -1.27)
+			(start 13.97 36.83)
+			(end 16.64 36.83)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6eda667a-6c65-4185-9255-3359b376ca60")
+			(uuid "c3fc8c5f-81c1-40a8-8b6d-6c598a7af4ca")
+		)
+		(fp_line
+			(start 13.97 -1.27)
+			(end 16.64 -1.27)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "0d53859d-3f3a-42a8-bd23-d3d1e279263e")
+		)
+		(fp_line
+			(start 13.97 -1.27)
+			(end 13.97 36.83)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a7ef6554-1ca4-46c5-9d1c-272cbb471103")
+		)
+		(fp_line
+			(start 11.56 42.04)
+			(end 3.68 42.04)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a6d682b0-7c80-43ff-b23a-ac6bc4fa9b83")
+		)
+		(fp_line
+			(start 11.56 31.62)
+			(end 11.56 42.04)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "4db49618-9d37-4a22-8447-c43722fe545f")
+		)
+		(fp_line
+			(start 3.68 42.04)
+			(end 3.68 31.62)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "02af0a74-1da0-4a7f-8b28-75acdd8607c0")
+		)
+		(fp_line
+			(start 3.68 31.62)
+			(end 11.56 31.62)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "7080d657-92ee-4f19-96fd-12220f7bd5ba")
+		)
+		(fp_line
+			(start 1.27 36.83)
+			(end -1.4 36.83)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e22d2e67-6b51-4a59-b196-7f99d383a16a")
 		)
 		(fp_line
 			(start 1.27 1.27)
-			(end -1.4 1.27)
+			(end 1.27 36.83)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e03757da-1f5c-4a88-ba3c-4f2bbee651b0")
+			(uuid "5f7a6c9c-0d19-46c0-a97e-43b4837cd1ac")
 		)
 		(fp_line
 			(start 1.27 1.27)
@@ -10737,153 +10807,53 @@
 		)
 		(fp_line
 			(start 1.27 1.27)
-			(end 1.27 36.83)
+			(end -1.4 1.27)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5f7a6c9c-0d19-46c0-a97e-43b4837cd1ac")
+			(uuid "e03757da-1f5c-4a88-ba3c-4f2bbee651b0")
 		)
 		(fp_line
-			(start 1.27 36.83)
-			(end -1.4 36.83)
+			(start 1.27 -1.27)
+			(end -1.4 -1.27)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "e22d2e67-6b51-4a59-b196-7f99d383a16a")
+			(uuid "6eda667a-6c65-4185-9255-3359b376ca60")
 		)
 		(fp_line
-			(start 3.68 31.62)
-			(end 11.56 31.62)
+			(start -1.4 39.5)
+			(end 3.68 39.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7080d657-92ee-4f19-96fd-12220f7bd5ba")
+			(uuid "b6662c3c-290d-4db5-a35f-845d85947b74")
 		)
 		(fp_line
-			(start 3.68 42.04)
-			(end 3.68 31.62)
+			(start -1.4 1.27)
+			(end -1.4 39.5)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "02af0a74-1da0-4a7f-8b28-75acdd8607c0")
+			(uuid "ab6d9c93-deb5-4386-a50f-60d2d53c491b")
 		)
 		(fp_line
-			(start 11.56 31.62)
-			(end 11.56 42.04)
+			(start -1.4 -3.94)
+			(end -1.4 -1.27)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4db49618-9d37-4a22-8447-c43722fe545f")
-		)
-		(fp_line
-			(start 11.56 42.04)
-			(end 3.68 42.04)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "a6d682b0-7c80-43ff-b23a-ac6bc4fa9b83")
-		)
-		(fp_line
-			(start 13.97 -1.27)
-			(end 13.97 36.83)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "a7ef6554-1ca4-46c5-9d1c-272cbb471103")
-		)
-		(fp_line
-			(start 13.97 -1.27)
-			(end 16.64 -1.27)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "0d53859d-3f3a-42a8-bd23-d3d1e279263e")
-		)
-		(fp_line
-			(start 13.97 36.83)
-			(end 16.64 36.83)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "c3fc8c5f-81c1-40a8-8b6d-6c598a7af4ca")
-		)
-		(fp_line
-			(start 16.64 -3.94)
-			(end -1.4 -3.94)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "a09b9482-9bd4-4591-9e50-9f764a6961b7")
-		)
-		(fp_line
-			(start 16.64 39.5)
-			(end 11.56 39.5)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "094fc3ef-5775-4566-a59b-929bd1f03f6e")
-		)
-		(fp_line
-			(start 16.64 39.5)
-			(end 16.64 -3.94)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e85a1a12-1ecb-4c7d-a10e-2713b7bfb1fd")
-		)
-		(fp_line
-			(start -1.53 -4.06)
-			(end -1.53 42.16)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "185734e1-d71a-463d-b296-85224059e2fd")
-		)
-		(fp_line
-			(start -1.53 -4.06)
-			(end 16.75 -4.06)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "daf34dae-b1f0-47b8-a72a-01092575a47b")
-		)
-		(fp_line
-			(start 16.75 42.16)
-			(end -1.53 42.16)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "ca51b1e3-d386-4d1f-9ac3-10bb7572cd09")
+			(uuid "2f073d26-8913-40a0-b5cc-8efc0575d414")
 		)
 		(fp_line
 			(start 16.75 42.16)
@@ -10896,74 +10866,44 @@
 			(uuid "17934b31-f732-4b41-8176-c559f9394109")
 		)
 		(fp_line
-			(start -1.27 -2.54)
-			(end 0 -3.81)
+			(start 16.75 42.16)
+			(end -1.53 42.16)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "54b46ea9-2fd6-460f-ac9e-913764c1c728")
+			(layer "F.CrtYd")
+			(uuid "ca51b1e3-d386-4d1f-9ac3-10bb7572cd09")
 		)
 		(fp_line
-			(start -1.27 39.37)
-			(end -1.27 -2.54)
+			(start -1.53 -4.06)
+			(end 16.75 -4.06)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "d38501c5-9bb2-44cd-9abf-069f41c89106")
+			(layer "F.CrtYd")
+			(uuid "daf34dae-b1f0-47b8-a72a-01092575a47b")
 		)
 		(fp_line
-			(start 0 -3.81)
-			(end 16.51 -3.81)
+			(start -1.53 -4.06)
+			(end -1.53 42.16)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "99436147-6c8b-4206-993d-f048ad4592aa")
+			(layer "F.CrtYd")
+			(uuid "185734e1-d71a-463d-b296-85224059e2fd")
 		)
 		(fp_line
-			(start 3.81 31.75)
-			(end 11.43 31.75)
+			(start 16.51 39.37)
+			(end -1.27 39.37)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "dabfed4f-cb36-43de-ab16-9a4c4f953985")
-		)
-		(fp_line
-			(start 3.81 41.91)
-			(end 3.81 31.75)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "9584de8b-33f9-4ccd-b25b-871b1e36b25a")
-		)
-		(fp_line
-			(start 11.43 31.75)
-			(end 11.43 41.91)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "e15a913e-4ac9-4d65-a5a5-cd4d316d3f2c")
-		)
-		(fp_line
-			(start 11.43 41.91)
-			(end 3.81 41.91)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "170778c0-5245-4054-8259-4cd7a20f6310")
+			(uuid "b36e9879-0d16-40fe-835d-1e564aa8dbc7")
 		)
 		(fp_line
 			(start 16.51 -3.81)
@@ -10976,17 +10916,77 @@
 			(uuid "993d20e5-5fdc-4563-9607-073bce140aa8")
 		)
 		(fp_line
-			(start 16.51 39.37)
-			(end -1.27 39.37)
+			(start 11.43 41.91)
+			(end 3.81 41.91)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b36e9879-0d16-40fe-835d-1e564aa8dbc7")
+			(uuid "170778c0-5245-4054-8259-4cd7a20f6310")
+		)
+		(fp_line
+			(start 11.43 31.75)
+			(end 11.43 41.91)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e15a913e-4ac9-4d65-a5a5-cd4d316d3f2c")
+		)
+		(fp_line
+			(start 3.81 41.91)
+			(end 3.81 31.75)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "9584de8b-33f9-4ccd-b25b-871b1e36b25a")
+		)
+		(fp_line
+			(start 3.81 31.75)
+			(end 11.43 31.75)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "dabfed4f-cb36-43de-ab16-9a4c4f953985")
+		)
+		(fp_line
+			(start 0 -3.81)
+			(end 16.51 -3.81)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "99436147-6c8b-4206-993d-f048ad4592aa")
+		)
+		(fp_line
+			(start -1.27 39.37)
+			(end -1.27 -2.54)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "d38501c5-9bb2-44cd-9abf-069f41c89106")
+		)
+		(fp_line
+			(start -1.27 -2.54)
+			(end 0 -3.81)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "54b46ea9-2fd6-460f-ac9e-913764c1c728")
 		)
 		(fp_text user "USB"
-			(at 7.62 35.56 0)
+			(at 7.62 35.56 180)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "b004b574-37d0-429a-8ac4-e87c45e54749")
@@ -11009,7 +11009,7 @@
 			)
 		)
 		(pad "1" thru_hole rect
-			(at 0 0)
+			(at 0 0 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11020,7 +11020,7 @@
 			(uuid "2ea796e7-ed80-4938-96f0-5b28d7cd48e1")
 		)
 		(pad "2" thru_hole oval
-			(at 0 2.54)
+			(at 0 2.54 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11031,7 +11031,7 @@
 			(uuid "53c8769d-a216-418f-b4e6-e674d96c88b3")
 		)
 		(pad "3" thru_hole oval
-			(at 0 5.08)
+			(at 0 5.08 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11042,7 +11042,7 @@
 			(uuid "f98f7919-44b1-45a9-9857-b0c6a9086a76")
 		)
 		(pad "4" thru_hole oval
-			(at 0 7.62)
+			(at 0 7.62 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11053,7 +11053,7 @@
 			(uuid "4e53e431-3dc9-45b7-98b4-5de1bd541c47")
 		)
 		(pad "5" thru_hole oval
-			(at 0 10.16)
+			(at 0 10.16 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11064,7 +11064,7 @@
 			(uuid "e3698a3a-14ab-4e9c-b91e-08c8e6ce83c6")
 		)
 		(pad "6" thru_hole oval
-			(at 0 12.7)
+			(at 0 12.7 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11075,7 +11075,7 @@
 			(uuid "acc9cef8-ebf9-490f-a65a-cdae4be86ae1")
 		)
 		(pad "7" thru_hole oval
-			(at 0 15.24)
+			(at 0 15.24 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11086,7 +11086,7 @@
 			(uuid "190921c8-0e27-421a-983b-bbd59b57208c")
 		)
 		(pad "8" thru_hole oval
-			(at 0 17.78)
+			(at 0 17.78 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11097,7 +11097,7 @@
 			(uuid "6209cc70-3385-413f-8531-d14850331b0d")
 		)
 		(pad "9" thru_hole oval
-			(at 0 20.32)
+			(at 0 20.32 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11108,7 +11108,7 @@
 			(uuid "0fd308d3-1832-4843-a1e9-cdfb8a8c33d1")
 		)
 		(pad "10" thru_hole oval
-			(at 0 22.86)
+			(at 0 22.86 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11119,7 +11119,7 @@
 			(uuid "04c3a1dd-7550-4da0-9759-a7b72dfd273b")
 		)
 		(pad "11" thru_hole oval
-			(at 0 25.4)
+			(at 0 25.4 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11130,7 +11130,7 @@
 			(uuid "7decf3ec-e21f-4707-84c8-4d498f00ae26")
 		)
 		(pad "12" thru_hole oval
-			(at 0 27.94)
+			(at 0 27.94 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11141,7 +11141,7 @@
 			(uuid "cef4ef8c-03ca-4287-ace3-9616ad755c42")
 		)
 		(pad "13" thru_hole oval
-			(at 0 30.48)
+			(at 0 30.48 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11152,7 +11152,7 @@
 			(uuid "5bb01deb-59f2-4c7b-9fe9-cd27133a68cb")
 		)
 		(pad "14" thru_hole oval
-			(at 0 33.02)
+			(at 0 33.02 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11163,7 +11163,7 @@
 			(uuid "0b01b013-c6a0-4b00-b439-8c8d69743e04")
 		)
 		(pad "15" thru_hole oval
-			(at 0 35.56)
+			(at 0 35.56 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11174,7 +11174,7 @@
 			(uuid "e3536b52-9573-4d84-a642-63bb2460bb8f")
 		)
 		(pad "16" thru_hole oval
-			(at 15.24 35.56)
+			(at 15.24 35.56 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11185,7 +11185,7 @@
 			(uuid "f4d2e511-c707-4e14-92a0-af81234c3b24")
 		)
 		(pad "17" thru_hole oval
-			(at 15.24 33.02)
+			(at 15.24 33.02 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11196,7 +11196,7 @@
 			(uuid "61302b09-f0f3-4f58-b614-d9645a34477e")
 		)
 		(pad "18" thru_hole oval
-			(at 15.24 30.48)
+			(at 15.24 30.48 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11207,7 +11207,7 @@
 			(uuid "82a09249-673f-4800-82f2-57ec38ef89a4")
 		)
 		(pad "19" thru_hole oval
-			(at 15.24 27.94)
+			(at 15.24 27.94 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11218,7 +11218,7 @@
 			(uuid "142d40fe-e71b-4d56-8401-beaadcfe7013")
 		)
 		(pad "20" thru_hole oval
-			(at 15.24 25.4)
+			(at 15.24 25.4 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11229,7 +11229,7 @@
 			(uuid "2f2e346f-ccdd-4622-9609-5a5df920a400")
 		)
 		(pad "21" thru_hole oval
-			(at 15.24 22.86)
+			(at 15.24 22.86 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11240,7 +11240,7 @@
 			(uuid "d81dc314-84a0-4b7b-a9c8-a676a4731b40")
 		)
 		(pad "22" thru_hole oval
-			(at 15.24 20.32)
+			(at 15.24 20.32 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11251,7 +11251,7 @@
 			(uuid "38f12fcb-4651-4af0-a4f5-6d4ff1d9d866")
 		)
 		(pad "23" thru_hole oval
-			(at 15.24 17.78)
+			(at 15.24 17.78 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11262,7 +11262,7 @@
 			(uuid "09338747-84b1-4695-bfea-d4d44067fa98")
 		)
 		(pad "24" thru_hole oval
-			(at 15.24 15.24)
+			(at 15.24 15.24 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11273,7 +11273,7 @@
 			(uuid "8a9999e8-b106-4884-a524-4115309d4b01")
 		)
 		(pad "25" thru_hole oval
-			(at 15.24 12.7)
+			(at 15.24 12.7 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11284,7 +11284,7 @@
 			(uuid "de70c269-047c-4096-8f6d-ddab90fd830b")
 		)
 		(pad "26" thru_hole oval
-			(at 15.24 10.16)
+			(at 15.24 10.16 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11295,7 +11295,7 @@
 			(uuid "24142639-141d-4c62-943a-4b3b33da298e")
 		)
 		(pad "27" thru_hole oval
-			(at 15.24 7.62)
+			(at 15.24 7.62 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11306,7 +11306,7 @@
 			(uuid "3af43742-b0f1-4a6b-85b7-6b4d76347883")
 		)
 		(pad "28" thru_hole oval
-			(at 15.24 5.08)
+			(at 15.24 5.08 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11317,7 +11317,7 @@
 			(uuid "946d96c0-ee00-47fe-af04-4588b5ff7c0b")
 		)
 		(pad "29" thru_hole oval
-			(at 15.24 2.54)
+			(at 15.24 2.54 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11328,7 +11328,7 @@
 			(uuid "11a3a375-f4b6-403b-be0a-3566d405184b")
 		)
 		(pad "30" thru_hole oval
-			(at 15.24 0)
+			(at 15.24 0 180)
 			(size 1.6 1.6)
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
@@ -11354,7 +11354,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ca12195a-9f71-4fc7-8516-27a012b51262")
-		(at 146.88 80.25)
+		(at 182.88 114.25)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D16"
@@ -11727,7 +11727,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "cd937a4f-ee7f-4904-8699-5139b3ad5784")
-		(at 146.88 76.7)
+		(at 182.88 110.7)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D15"
@@ -12100,13 +12100,13 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "d9c80fd0-ba34-4ce8-a53a-ff8f0b5f39de")
-		(at 93 117.5)
+		(at 108 136)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW17"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "a7dfa66f-c059-4647-bbab-f706a05d0983")
+			(uuid "e1272b54-35ec-4a14-8fb0-f469f579c4a6")
 			(effects
 				(font
 					(size 1 1)
@@ -12117,7 +12117,7 @@
 		(property "Value" "SW_SPST"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "38c409d8-9e1d-4590-af46-c11b95256311")
+			(uuid "5cd60810-3038-4dbf-988b-6380ff97b4b9")
 			(effects
 				(font
 					(size 1 1)
@@ -12129,7 +12129,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2ea66c20-cba3-4002-b92c-e68f3ad34057")
+			(uuid "3e3fd599-5e19-44cc-9d42-7392d617d4cb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12141,7 +12141,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ed3c6cbf-a774-4815-b4d6-4a2e0ea0446e")
+			(uuid "2d1c195a-32a6-40d6-bcc5-629ededa115d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12417,7 +12417,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "dd56d3dd-57d2-4f32-8d53-b7d931e0ad0b")
-		(at 146.88 62.5)
+		(at 182.88 96.5)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D11"
@@ -12790,7 +12790,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "ec846485-7758-4523-a02c-f746303d90b9")
-		(at 33.5 70)
+		(at 54 85)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW9"
@@ -13107,7 +13107,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f102156e-4791-491d-88b0-35b89c7642cd")
-		(at 146.88 44.75)
+		(at 182.88 78.75)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D6"
@@ -13480,7 +13480,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "f7bf44c9-4bcc-4e56-b77c-8d1a3cdcbe54")
-		(at 146.88 48.3)
+		(at 182.88 82.3)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D7"
@@ -13853,7 +13853,7 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "fa18f7e8-be31-437c-9579-b8181987a5a1")
-		(at 53 51)
+		(at 72 68)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW4"
@@ -14170,13 +14170,13 @@
 	(footprint "ScottoKeebs_Choc:Choc_V2_1.00u"
 		(layer "F.Cu")
 		(uuid "fd6c7136-4887-49dd-8cf9-0cf8e3723631")
-		(at 115.5 120)
+		(at 126 136)
 		(descr "Choc keyswitch V2 CPG1353 V2 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1353 V2 Cutout Keycap 1.00u")
 		(property "Reference" "SW18"
 			(at 0 -9 0)
 			(layer "F.SilkS")
-			(uuid "57281eb6-dd1a-4848-8d9c-0ddf6c2e59bf")
+			(uuid "cc1815cd-ccf4-45c6-b9e0-8d37004d1b49")
 			(effects
 				(font
 					(size 1 1)
@@ -14187,7 +14187,7 @@
 		(property "Value" "SW_SPST"
 			(at 0 9 0)
 			(layer "F.Fab")
-			(uuid "6787dd90-4752-44b5-abbf-e831917f6176")
+			(uuid "65d5d069-0a53-4c53-bb81-b721cb56d775")
 			(effects
 				(font
 					(size 1 1)
@@ -14199,7 +14199,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5b8436b2-ca30-4126-adfb-591a4c75552f")
+			(uuid "e9ce90fb-deda-46a2-b89a-88d9fe2a69c6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14211,7 +14211,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7479ef7-2ecf-406c-ae51-0390659403ea")
+			(uuid "9e33d41d-7686-4f70-9be9-b9c0a892c00f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14487,7 +14487,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "feb2c306-ea67-451f-9304-e92d3ff825d3")
-		(at 146.88 73.15)
+		(at 182.88 107.15)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D14"
