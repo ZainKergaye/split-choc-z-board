@@ -18737,6 +18737,30 @@
 		(layer "User.4")
 		(uuid "f815728d-3105-4552-aa71-89e15ce0738c")
 	)
+	(gr_text "R"
+		(at 60.82 49.87 0)
+		(layer "B.SilkS")
+		(uuid "1c5dc854-6633-4468-8489-b72032b08916")
+		(effects
+			(font
+				(size 10 10)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "Created by\nZain Kergaye 4/12/25"
+		(at 53.29 67.35 270)
+		(layer "B.SilkS")
+		(uuid "26fadf23-4c09-4b0f-898e-b4386897d46e")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.1)
+			)
+			(justify bottom mirror)
+		)
+	)
 	(segment
 		(start 88.876288 52.97)
 		(end 86.3658 55.480488)
