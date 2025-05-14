@@ -502,10 +502,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../Solidworks/Split Choc Z Board/split-choc-z-board-pcb-left.step",
       "svg": "",
       "vrml": ""
     },
