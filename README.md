@@ -32,13 +32,17 @@ print the case. Build and flash the firmware. Then you are done!
 Order the PCB from any manufacurer you want, the exported gerbers are below.
 
 [Left half gerbers](./split-choc-z-board/gerbers/left-half-gerbers.zip)
+
 [Right half gerbers](./split-choc-z-board-right/gerbers/right-half-gerbers.zip)
 
 ### Components
 
 [Choc v2 switches](https://www.kailh.net/products/kailh-choc-v2-low-profile-switch-set)
+
 [USB-C connector](https://www.digikey.com/en/products/detail/gct/USB4105-GF-A/11198441)
+
 [Diodes](https://www.digikey.com/en/products/detail/mcc-micro-commercial-components/1N4148W-TP/717196)
+
 [Electrostatic protection](https://www.digikey.com/en/products/detail/umw/usblc6-2sc6/16705896)
 
 One USB-C data cable to communicate between halves and one more to communicate to the computer.
@@ -52,7 +56,11 @@ One USB-C data cable to communicate between halves and one more to communicate t
 
 ## Firmware Installation and Configuration
 
+Currently a work in progress...
+
 ## Assembly
+
+Currently a work in progress...
 
 ## Troubleshooting
 
