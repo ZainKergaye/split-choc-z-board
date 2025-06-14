@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "project-library")(type "KiCad")(uri "${KIPRJMOD}/project-library.kicad_sym")(options "")(descr ""))
-  (lib (name "USB4105-GF-A")(type "KiCad")(uri "/home/aegis/Documents/Computer Aided Design/kicad/split-choc-z-board/models/USB4105-GF-A/USB4105-GF-A.kicad_sym")(options "")(descr ""))
-)
