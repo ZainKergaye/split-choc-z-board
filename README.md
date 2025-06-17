@@ -38,7 +38,31 @@ Order the PCB from any manufacurer you want, the exported gerbers are below.
 
 ### Components
 
-[Choc v1 switches](https://www.kailh.net/products/kailh-choc-v2-low-profile-switch-set)
+[Choc v1 switches](https://www.amazon.com/dp/B0BLC9BKW8)
+
+[Keycaps](https://www.amazon.com/dp/B0D2DCDBSW)
+
+[QSPI Flash](https://www.digikey.com/en/products/detail/winbond-electronics/W25Q128JVSIQ-TR/5803944)
+
+[RP2040](https://www.digikey.com/en/products/detail/raspberry-pi/SC0914-13/14306010?s=N4IgTCBcDaIE4AcwAYAsyQF0C%2BQ)
+
+[Button](https://www.digikey.com/en/products/detail/e-switch/TL3315NF250Q/1870396)
+
+[Resistor 10k](https://www.digikey.com/en/products/detail/bourns-inc/CR0603-FX-1002ELF/3593188)
+
+[Resistor 27.4k](https://www.digikey.com/en/products/detail/bourns-inc/CR0603-FX-27R4ELF/3783905)
+
+[Resistor 4.99k](https://www.digikey.com/en/products/detail/bourns-inc/CR0603-FX-4991ELF/2345092)
+
+[Resistor 1k](https://www.digikey.com/en/products/detail/bourns-inc/CR0603-JW-102ELF/3741004)
+
+[Capacitor 15pf](https://www.digikey.com/en/products/detail/murata-electronics/GCM1555C1H150JA16D/4903554)
+
+[Capacitor 10uf](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05A106MQ5NUNC/3887109)
+
+[Capacitor 1uf](https://www.digikey.com/en/products/detail/taiyo-yuden/JMK105BJ105KV-F/930583)
+
+[Capacitor 0.1uf](https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05B104KP5NNNC/3886660)
 
 [USB-C connector](https://www.digikey.com/en/products/detail/gct/USB4105-GF-A/11198441)
 
@@ -50,6 +74,7 @@ One USB-C data cable to communicate between halves and one more to communicate t
 
 ### Additional tools
 
+- Hot air soldering station / Reflow oven
 - Soldering iron
 - Solder wire
 - Solder paste (For SMD)
