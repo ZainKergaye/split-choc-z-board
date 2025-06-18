@@ -1600,7 +1600,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "2241ade1-961d-4025-9292-bff3fc06b7aa")
-		(at 108 56)
+		(at 90 51)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW4"
@@ -2124,7 +2124,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "32f84347-4b90-4dd8-ab7d-f9dbed7260c0")
-		(at 90 85)
+		(at 108 73)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW11"
@@ -2648,7 +2648,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "39d94152-c849-44bc-89ba-5aeaaf847bb8")
-		(at 126 90)
+		(at 108 90)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW16"
@@ -3336,7 +3336,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "417843b2-75b3-40f9-b9d0-4000b4b11d75")
-		(at 54 78)
+		(at 108 56)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW5"
@@ -4030,7 +4030,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "444cd3e8-6e50-4ea9-9d39-f4526cb023e3")
-		(at 72 56)
+		(at 54 61)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW2"
@@ -4354,11 +4354,11 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "4de83e31-9385-4981-b008-23060a329a71")
-		(at 36 86.5)
+		(at 137.371569 125.987772 -35)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW20"
-			(at 0 -9 0)
+			(at 0 -9 325)
 			(layer "F.SilkS")
 			(uuid "a098d9e9-e06a-4481-aeb5-1cae1a54ae46")
 			(effects
@@ -4369,7 +4369,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 0 9 0)
+			(at 0 9 325)
 			(layer "F.Fab")
 			(uuid "3a5017a5-9abb-4d9d-bbba-396c9a25e630")
 			(effects
@@ -4380,7 +4380,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 0)
+			(at 0 0 325)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1f77fef2-177a-4187-b344-ec6409040920")
@@ -4392,7 +4392,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 0 0 0)
+			(at 0 0 325)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "401c111a-7da7-4eb2-b09d-d226c011b48e")
@@ -4408,18 +4408,8 @@
 		(sheetfile "split-choc-z-board.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -7.6 -7.6)
-			(end -7.6 7.6)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "6c1e7ce7-f37e-4093-981c-62eb9096a7ea")
-		)
-		(fp_line
-			(start -7.6 7.6)
-			(end 7.6 7.6)
+			(start -7.599999 7.6)
+			(end 7.6 7.599999)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -4428,18 +4418,18 @@
 			(uuid "d2d2625a-1ae1-4c22-9862-f460ca179921")
 		)
 		(fp_line
-			(start 7.6 -7.6)
-			(end -7.6 -7.6)
+			(start -7.6 -7.599999)
+			(end -7.599999 7.6)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7aaf7509-d5f2-490b-954a-f79d7bb185f9")
+			(uuid "6c1e7ce7-f37e-4093-981c-62eb9096a7ea")
 		)
 		(fp_line
-			(start 7.6 7.6)
-			(end 7.6 -7.6)
+			(start 7.6 7.599999)
+			(end 7.599999 -7.6)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -4448,14 +4438,14 @@
 			(uuid "a2fd3398-6b56-4a94-9d2a-00bb7b54951f")
 		)
 		(fp_line
-			(start -9 -8.5)
-			(end -9 8.5)
+			(start 7.599999 -7.6)
+			(end -7.6 -7.599999)
 			(stroke
-				(width 0.1)
+				(width 0.12)
 				(type solid)
 			)
-			(layer "Dwgs.User")
-			(uuid "b9b78ec9-1745-4556-b805-60cd272230a0")
+			(layer "F.SilkS")
+			(uuid "7aaf7509-d5f2-490b-954a-f79d7bb185f9")
 		)
 		(fp_line
 			(start -9 8.5)
@@ -4468,14 +4458,14 @@
 			(uuid "50994ba4-08fe-45f0-9775-606346a56c58")
 		)
 		(fp_line
-			(start 9 -8.5)
-			(end -9 -8.5)
+			(start -9 -8.5)
+			(end -9 8.5)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "6dffb7eb-1fd7-4b3a-81b8-d49c53d0665d")
+			(uuid "b9b78ec9-1745-4556-b805-60cd272230a0")
 		)
 		(fp_line
 			(start 9 8.5)
@@ -4488,14 +4478,14 @@
 			(uuid "89581b61-3c0c-46d3-a5db-d3f589e34cb1")
 		)
 		(fp_line
-			(start -7.25 -7.25)
-			(end -7.25 7.25)
+			(start 9 -8.5)
+			(end -9 -8.5)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
-			(layer "Eco1.User")
-			(uuid "95241c8f-5073-43de-9633-d94ef592d470")
+			(layer "Dwgs.User")
+			(uuid "6dffb7eb-1fd7-4b3a-81b8-d49c53d0665d")
 		)
 		(fp_line
 			(start -7.25 7.25)
@@ -4508,14 +4498,14 @@
 			(uuid "b3e2604b-33f4-4bf9-bd9a-36a003695e09")
 		)
 		(fp_line
-			(start 7.25 -7.25)
-			(end -7.25 -7.25)
+			(start -7.25 -7.25)
+			(end -7.25 7.25)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Eco1.User")
-			(uuid "9f403373-c501-4da9-97c8-da92ef046f8c")
+			(uuid "95241c8f-5073-43de-9633-d94ef592d470")
 		)
 		(fp_line
 			(start 7.25 7.25)
@@ -4528,14 +4518,14 @@
 			(uuid "9510be84-a7b9-4d9f-9033-91fe2c3c3c79")
 		)
 		(fp_line
-			(start -7.75 -7.75)
-			(end -7.75 7.75)
+			(start 7.25 -7.25)
+			(end -7.25 -7.25)
 			(stroke
-				(width 0.05)
+				(width 0.1)
 				(type solid)
 			)
-			(layer "F.CrtYd")
-			(uuid "555414f0-b4b4-4d79-84c1-611346032a2e")
+			(layer "Eco1.User")
+			(uuid "9f403373-c501-4da9-97c8-da92ef046f8c")
 		)
 		(fp_line
 			(start -7.75 7.75)
@@ -4548,14 +4538,14 @@
 			(uuid "0201693a-643d-4693-b8c9-c22b148f6980")
 		)
 		(fp_line
-			(start 7.75 -7.75)
-			(end -7.75 -7.75)
+			(start -7.75 -7.75)
+			(end -7.75 7.75)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "320f1d60-be03-4639-8b6d-093c3410d403")
+			(uuid "555414f0-b4b4-4d79-84c1-611346032a2e")
 		)
 		(fp_line
 			(start 7.75 7.75)
@@ -4568,14 +4558,14 @@
 			(uuid "3655470a-cff8-470f-bda8-811702c18953")
 		)
 		(fp_line
-			(start -7.5 -7.5)
-			(end -7.5 7.5)
+			(start 7.75 -7.75)
+			(end -7.75 -7.75)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "9601a6b0-a045-47d2-a70e-44034f93b8d2")
+			(layer "F.CrtYd")
+			(uuid "320f1d60-be03-4639-8b6d-093c3410d403")
 		)
 		(fp_line
 			(start -7.5 7.5)
@@ -4588,14 +4578,14 @@
 			(uuid "d5850387-43e4-4b83-a1cd-2335d6bcbd9f")
 		)
 		(fp_line
-			(start 7.5 -7.5)
-			(end -7.5 -7.5)
+			(start -7.5 -7.5)
+			(end -7.5 7.5)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4da1178a-8d44-41f9-b67b-1ff9be891025")
+			(uuid "9601a6b0-a045-47d2-a70e-44034f93b8d2")
 		)
 		(fp_line
 			(start 7.5 7.5)
@@ -4607,8 +4597,18 @@
 			(layer "F.Fab")
 			(uuid "84c5ca8d-3c19-4973-816a-8186adb4d350")
 		)
+		(fp_line
+			(start 7.5 -7.5)
+			(end -7.5 -7.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "4da1178a-8d44-41f9-b67b-1ff9be891025")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 325)
 			(layer "F.Fab")
 			(uuid "95ad7137-9122-4dd6-b87b-3a8c500a0962")
 			(effects
@@ -4619,28 +4619,28 @@
 			)
 		)
 		(pad "" np_thru_hole circle
-			(at -5.5 0)
+			(at -5.5 0 325)
 			(size 1.9 1.9)
 			(drill 1.9)
 			(layers "*.Cu" "*.Mask")
 			(uuid "3a235faa-c62d-47b8-b46e-458572172a49")
 		)
 		(pad "" np_thru_hole circle
-			(at 0 0)
+			(at 0 0 325)
 			(size 3.45 3.45)
 			(drill 3.45)
 			(layers "*.Cu" "*.Mask")
 			(uuid "4495ee52-6600-4e8f-bc20-85bc4b87ce0e")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.5 0)
+			(at 5.5 0 325)
 			(size 1.9 1.9)
 			(drill 1.9)
 			(layers "*.Cu" "*.Mask")
 			(uuid "ad0ff26a-5ec7-411b-bcc2-8a61abfc5691")
 		)
 		(pad "1" thru_hole circle
-			(at 0 -5.9)
+			(at 0 -5.9 325)
 			(size 2.2 2.2)
 			(drill 1.2)
 			(layers "*.Cu" "*.Mask")
@@ -4651,7 +4651,7 @@
 			(uuid "5bc77247-84b4-4ed9-b0c9-5c2d217c9c5a")
 		)
 		(pad "2" thru_hole circle
-			(at 5 -3.8)
+			(at 5 -3.800001 325)
 			(size 2.2 2.2)
 			(drill 1.2)
 			(layers "*.Cu" "*.Mask")
@@ -4782,7 +4782,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "53fd890d-6e7a-405f-bbe7-f70853f35115")
-		(at 90 68)
+		(at 36 86.5)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW7"
@@ -5693,7 +5693,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "59093539-8da2-4dec-a77e-082134fb87a2")
-		(at 54 61)
+		(at 36 69.5)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW1"
@@ -7105,7 +7105,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "622ea734-6218-45bb-a4ad-085dee1a0382")
-		(at 108 73)
+		(at 54 78)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW8"
@@ -8237,11 +8237,11 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "8700c318-f197-4c65-bd7a-e82a5ae77d1d")
-		(at 137.371569 125.987772 -35)
+		(at 54 95)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW13"
-			(at 0 -9 145)
+			(at 0 -9 180)
 			(layer "F.SilkS")
 			(uuid "1d00c126-4408-4384-8835-082b1a889cad")
 			(effects
@@ -8252,7 +8252,7 @@
 			)
 		)
 		(property "Value" "SW_SPST"
-			(at 0 9 145)
+			(at 0 9 180)
 			(layer "F.Fab")
 			(uuid "6e1f9ff3-69ad-48b6-aa12-41dc2d631c6b")
 			(effects
@@ -8263,7 +8263,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 145)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "50cb56ca-5812-4c02-8f03-69f4269186b9")
@@ -8275,7 +8275,7 @@
 			)
 		)
 		(property "Description" "Single Pole Single Throw (SPST) switch"
-			(at 0 0 145)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5ae6b6f6-0bb7-42d2-9884-4a8f333b5926")
@@ -8331,16 +8331,6 @@
 			(uuid "d2c169be-52a2-4ad2-8d6c-372b2ba4b03d")
 		)
 		(fp_line
-			(start -9 8.5)
-			(end 9.000001 8.5)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "Dwgs.User")
-			(uuid "7f5a1772-474d-409a-b9e7-c06ed32114ae")
-		)
-		(fp_line
 			(start -9.000001 -8.5)
 			(end -9 8.5)
 			(stroke
@@ -8351,14 +8341,14 @@
 			(uuid "69c1a366-df17-434d-9969-bd4fdcac41ef")
 		)
 		(fp_line
-			(start 9.000001 8.5)
-			(end 9 -8.5)
+			(start -9 8.5)
+			(end 9.000001 8.5)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "e40bb9a3-03fd-4dcd-b4d0-acd31b028013")
+			(uuid "7f5a1772-474d-409a-b9e7-c06ed32114ae")
 		)
 		(fp_line
 			(start 9 -8.5)
@@ -8369,6 +8359,16 @@
 			)
 			(layer "Dwgs.User")
 			(uuid "6e6bbfd1-899f-48e7-a8da-d1789a36c769")
+		)
+		(fp_line
+			(start 9.000001 8.5)
+			(end 9 -8.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "e40bb9a3-03fd-4dcd-b4d0-acd31b028013")
 		)
 		(fp_line
 			(start -7.250001 7.25)
@@ -8411,16 +8411,6 @@
 			(uuid "9ab2897a-c1dd-4b75-b2c5-12e3ab391a80")
 		)
 		(fp_line
-			(start -7.75 7.75)
-			(end 7.75 7.75)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "aa107185-ac74-467f-9153-f03480c139d2")
-		)
-		(fp_line
 			(start -7.75 -7.75)
 			(end -7.75 7.75)
 			(stroke
@@ -8431,14 +8421,14 @@
 			(uuid "2849102a-57ce-4cc9-ae6c-cffc2b5043eb")
 		)
 		(fp_line
-			(start 7.75 7.75)
-			(end 7.75 -7.75)
+			(start -7.75 7.75)
+			(end 7.75 7.75)
 			(stroke
 				(width 0.05)
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9bb98eae-715d-44f3-be67-0cfbb44658a1")
+			(uuid "aa107185-ac74-467f-9153-f03480c139d2")
 		)
 		(fp_line
 			(start 7.75 -7.75)
@@ -8451,14 +8441,14 @@
 			(uuid "de2c9345-a74f-4a40-8192-777c9d87f2c8")
 		)
 		(fp_line
-			(start -7.5 7.5)
-			(end 7.5 7.5)
+			(start 7.75 7.75)
+			(end 7.75 -7.75)
 			(stroke
-				(width 0.1)
+				(width 0.05)
 				(type solid)
 			)
-			(layer "F.Fab")
-			(uuid "949876c3-0462-43df-b52a-6d73f65ca8a8")
+			(layer "F.CrtYd")
+			(uuid "9bb98eae-715d-44f3-be67-0cfbb44658a1")
 		)
 		(fp_line
 			(start -7.5 -7.5)
@@ -8471,14 +8461,14 @@
 			(uuid "7e0034af-fe56-4c9c-ac1d-858842c87901")
 		)
 		(fp_line
-			(start 7.5 7.5)
-			(end 7.5 -7.5)
+			(start -7.5 7.5)
+			(end 7.5 7.5)
 			(stroke
 				(width 0.1)
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a55c4df2-289b-4313-bbe4-b3275ca1fa5e")
+			(uuid "949876c3-0462-43df-b52a-6d73f65ca8a8")
 		)
 		(fp_line
 			(start 7.5 -7.5)
@@ -8490,8 +8480,18 @@
 			(layer "F.Fab")
 			(uuid "858ad100-6150-4acf-932e-512a6ea5a560")
 		)
+		(fp_line
+			(start 7.5 7.5)
+			(end 7.5 -7.5)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "a55c4df2-289b-4313-bbe4-b3275ca1fa5e")
+		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 145)
+			(at 0 0 180)
 			(layer "F.Fab")
 			(uuid "8df84219-ad0e-4a1c-8733-c942858dc61a")
 			(effects
@@ -8502,28 +8502,28 @@
 			)
 		)
 		(pad "" np_thru_hole circle
-			(at -5.5 0 325)
+			(at -5.5 0)
 			(size 1.9 1.9)
 			(drill 1.9)
 			(layers "*.Cu" "*.Mask")
 			(uuid "a1d58116-a6cb-49e7-a535-49b40721852f")
 		)
 		(pad "" np_thru_hole circle
-			(at 0 0 325)
+			(at 0 0)
 			(size 3.45 3.45)
 			(drill 3.45)
 			(layers "*.Cu" "*.Mask")
 			(uuid "feadaac6-240e-4619-9e44-6a0d6e4455ba")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.5 0 325)
+			(at 5.5 0)
 			(size 1.9 1.9)
 			(drill 1.9)
 			(layers "*.Cu" "*.Mask")
 			(uuid "ff92bf6a-60cb-4c1e-b47d-d0112a185616")
 		)
 		(pad "1" thru_hole circle
-			(at 0 -5.9 325)
+			(at 0 -5.9)
 			(size 2.2 2.2)
 			(drill 1.2)
 			(layers "*.Cu" "*.Mask")
@@ -8534,7 +8534,7 @@
 			(uuid "8333a1da-f22e-4c60-bbad-14a24d008d7e")
 		)
 		(pad "2" thru_hole circle
-			(at 5 -3.799999 325)
+			(at 5 -3.799999)
 			(size 2.2 2.2)
 			(drill 1.2)
 			(layers "*.Cu" "*.Mask")
@@ -8985,7 +8985,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "8ea589db-8997-4254-a810-3ab30264a7e6")
-		(at 108 90)
+		(at 126 73)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW12"
@@ -9309,7 +9309,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "92878e07-a1de-4fe3-96bc-d4461d54e1fe")
-		(at 72 90)
+		(at 90 68)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW10"
@@ -11407,7 +11407,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "a49dbd34-0e35-49d2-bc76-813b1828f399")
-		(at 90 51)
+		(at 72 56)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW3"
@@ -11731,7 +11731,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "a5469d0f-3910-4339-ad54-c1a66be0aba7")
-		(at 126 56)
+		(at 72 90)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW14"
@@ -11785,8 +11785,8 @@
 		(sheetfile "split-choc-z-board.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -7.6 -7.6)
-			(end -7.6 7.6)
+			(start -7.6 -7.599999)
+			(end -7.599999 7.6)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -11795,8 +11795,8 @@
 			(uuid "35f996d1-b939-4159-bd6d-de6e02d04006")
 		)
 		(fp_line
-			(start -7.6 7.6)
-			(end 7.6 7.6)
+			(start -7.599999 7.6)
+			(end 7.6 7.599999)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -11805,8 +11805,8 @@
 			(uuid "03637a34-f5ad-4d78-99f6-c55c029fea15")
 		)
 		(fp_line
-			(start 7.6 -7.6)
-			(end -7.6 -7.6)
+			(start 7.599999 -7.6)
+			(end -7.6 -7.599999)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -11815,8 +11815,8 @@
 			(uuid "cf9fc818-9ad4-4b95-9566-30c30b33c56a")
 		)
 		(fp_line
-			(start 7.6 7.6)
-			(end 7.6 -7.6)
+			(start 7.6 7.599999)
+			(end 7.599999 -7.6)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -12028,7 +12028,7 @@
 			(uuid "abaca3e6-512a-4e33-9eac-c318686b201b")
 		)
 		(pad "2" thru_hole circle
-			(at 5 -3.8)
+			(at 5 -3.800001)
 			(size 2.2 2.2)
 			(drill 1.2)
 			(layers "*.Cu" "*.Mask")
@@ -12759,7 +12759,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "bb09dd41-f29f-45a1-b569-7af80af4f37c")
-		(at 126 73)
+		(at 90 85)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW15"
@@ -13280,6 +13280,7 @@
 		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "bc77b240-bf55-4cb9-88e8-10af9239f6e2")
 		(at 137 49.5)
@@ -14403,6 +14404,7 @@
 		)
 	)
 	(footprint "Resistor_SMD:R_0603_1608Metric"
+		(locked yes)
 		(layer "F.Cu")
 		(uuid "dbc5ba25-759a-451a-97f5-35db0a3f5955")
 		(at 137 51 180)
@@ -14994,7 +14996,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "ec846485-7758-4523-a02c-f746303d90b9")
-		(at 54 95)
+		(at 72 73)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW9"
@@ -15318,7 +15320,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "efda5047-312a-4c9d-b544-80483d4e6188")
-		(at 36 69.5)
+		(at 126 90)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW17"
@@ -15842,7 +15844,7 @@
 		(locked yes)
 		(layer "F.Cu")
 		(uuid "fa18f7e8-be31-437c-9579-b8181987a5a1")
-		(at 72 73)
+		(at 126 56)
 		(descr "Choc keyswitch V1 CPG1350 V1 Keycap 1.00u")
 		(tags "Choc Keyswitch Switch CPG1350 V1 Cutout Keycap 1.00u")
 		(property "Reference" "SW6"
