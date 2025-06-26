@@ -31,7 +31,8 @@ fp-info-cache
 *.csv
 
 # Env files
-
 .envrc
-
 .direnv/
+
+# Build results
+result/
