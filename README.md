@@ -2,18 +2,16 @@
 
 The choc split key zboard is another ergonomic split-keyboard designed for comfort and efficiency. Using wired USB-C connectors to communicate between halves, it is a plain simple keyboard.
 
-> [!CAUTION]
-> This project is being redone! I chose the wrong board that does not support UART!
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Getting Started](#getting-started)
 4. [Hardware](#hardware)
-5. [Firmware Installation and Configuration](#firmware-installation-and-configuration)
+5. [Initial Board Testing](#initial-board-testing)
 6. [Assembly](#assembly)
-7. [Troubleshooting](#troubleshooting)
+7. [Firmware Installation](#firmware-installation)
+8. [Troubleshooting](#troubleshooting)
 
 ## Features
 
@@ -80,13 +78,35 @@ One USB-C data cable to communicate between halves and one more to communicate t
 - Solder paste (For SMD)
 - Rosin
 
-## Firmware Installation and Configuration
+## Initial Board Testing
 
-Currently a work in progress...
+While assembling the board, it's very important to make sure the RP2040 works.
+Solder the main chip along with the top USB-C connector, Power regulation, QSPI flash,
+and all the other decoupling capacitors and resistors. Don't solder the lower USB-C or
+it's ESD protection or any other keyswitches. GPIO 24 is exposed through the 2.7mm dupont holes.
+Simply connect an led and 1k ohm resistor to it and upload blink.py. This will give you a basic
+program that tells you if the whole chip works or not.
 
 ## Assembly
 
-Currently a work in progress...
+> [!NOTE]
+> Currently a work in progress, more pictures will be coming.
+
+Assembly will require you to have kicad board editor open while you populate the board
+in order to know which component goes where. Definately not recommended as a first beginner project.
+
+## Firmware Installation
+
+See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information.
+
+After setting up your build environment, simply use this command to flash
+
+```bash
+
+make e88:default:flash
+
+
+```
 
 ## Troubleshooting
 
